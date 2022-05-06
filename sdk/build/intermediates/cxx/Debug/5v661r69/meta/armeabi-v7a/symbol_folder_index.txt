@@ -1,0 +1,1 @@
+C:\Users\italo.vaz\AndroidStudioProjects\MyApplication2\sdk\build\intermediates\cxx\Debug\5v661r69\obj\armeabi-v7a

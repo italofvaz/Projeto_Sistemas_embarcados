@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\Users\\italo.vaz\\AndroidStudioProjects\\MyApplication2\\sdk\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\italo.vaz\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\italo.vaz\\AndroidStudioProjects\\MyApplication2\\sdk\\.cxx\\RelWithDebInfo\\21v3l6d0\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\italo.vaz\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\italo.vaz\\AndroidStudioProjects\\MyApplication2\\sdk\\.cxx\\RelWithDebInfo\\21v3l6d0\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared-RelWithDebInfo-x86": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommandComponents": [
+        "C:\\Users\\italo.vaz\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\italo.vaz\\AndroidStudioProjects\\MyApplication2\\sdk\\.cxx\\RelWithDebInfo\\21v3l6d0\\x86",
+        "opencv_jni_shared"
+      ],
+      "abi": "x86",
+      "output": "C:\\Users\\italo.vaz\\AndroidStudioProjects\\MyApplication2\\sdk\\.cxx\\RelWithDebInfo\\21v3l6d0\\x86\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}
